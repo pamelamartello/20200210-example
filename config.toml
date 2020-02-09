@@ -1,6 +1,5 @@
 baseurl = "https://pamelamartello.github.io/20200210-example/"
 title = "2020.02.10 TEST"
-themesDir = "themes"
 theme = "hugo-creative-portfolio-theme"
 publishDir = "docs"
 languageCode = "en-us"
