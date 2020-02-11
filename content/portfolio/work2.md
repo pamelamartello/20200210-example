@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Name of the work 2"
 draft = false
-image = "img/portfolio/paper-presentation.jpg"
+image = "img/portfolio/test-image1.jpg"
 showonlyimage = false
 weight = 1
 +++
@@ -10,9 +10,12 @@ weight = 1
 TESTING WEB UPDATE: punch out jewelry kit
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+ADDING AN IMAGE TESTING
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+![test](/img/portfolio/gravity-paper.jpg)
+
+
+testing
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
